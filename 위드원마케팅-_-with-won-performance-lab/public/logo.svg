@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <!-- W with Arrow Logo Symbol -->
+  <g transform="translate(10, 10)">
+    <!-- Stroke 1: Left down -->
+    <path d="M 0 10 L 12 50 L 22 50 L 10 10 Z" fill="#152B52" />
+    <!-- Stroke 2: Middle up -->
+    <path d="M 12 50 L 28 10 L 38 10 L 22 50 Z" fill="#152B52" />
+    <!-- Stroke 3: Middle down -->
+    <path d="M 28 10 L 40 50 L 50 50 L 38 10 Z" fill="#152B52" />
+    <!-- Stroke 4: Right up ending in Arrow -->
+    <path d="M 40 50 L 58 10 L 68 10 L 50 50 Z" fill="#152B52" />
+    <!-- Arrow Head -->
+    <polygon points="58,2 76,14 62,22" fill="#152B52" />
+  </g>
+
+  <!-- Typography -->
+  <text x="95" y="38" font-family="'Pretendard', 'Inter', system-ui, sans-serif" font-weight="900" font-size="24" fill="#152B52" letter-spacing="-0.5">WITH-WON</text>
+  <text x="95" y="58" font-family="'Pretendard', 'Inter', system-ui, sans-serif" font-weight="700" font-size="16" fill="#152B52" letter-spacing="0.5">Marketing</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 36" width="130" height="36">
+  <path d="M48 5H112V9H48Z" fill="#FF7900"/>
+  <circle cx="39" cy="7" r="4" fill="#FF7900"/>
+  <circle cx="122" cy="28" r="4" fill="#FF7900"/>
+  <text x="0" y="29" fill="#FFFFFF" font-size="28" font-weight="800" font-family="system-ui, -apple-system, sans-serif" letter-spacing="-1">criteo</text>
+</svg>
