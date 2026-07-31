@@ -138,7 +138,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenPrivacyModal }) => {
               <strong className="text-slate-400">상호명:</strong> 위드원마케팅 (WITH-WON Marketing) | <strong className="text-slate-400">대표자:</strong> 조원희 | <strong className="text-slate-400">사업자등록번호:</strong> 163-61-00845
             </p>
             <p>
-              <strong className="text-slate-400">주소:</strong> 인천광역시 연수구 인천타워대로 323, 에이동 10층 1010-121호(송도동, 송도 센트로드) | <strong className="text-slate-400">이메일:</strong> withone99@naver.com
+              <strong className="text-slate-400">주소:</strong> 인천광역시 연수구 인천타워대로 323, 에이동 10층 1010-121호(송도동, 송도 센트로드) | <strong className="text-slate-400">이메일:</strong> withwon@with-won.co.kr
             </p>
           </div>
 

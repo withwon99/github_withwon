@@ -182,7 +182,7 @@ export const PrivacyPolicyModal: React.FC<PrivacyPolicyModalProps> = ({ isOpen, 
             <div className="bg-slate-50 p-4 rounded-xl space-y-1 border border-slate-100 text-xs sm:text-sm">
               <p><strong className="text-slate-800">성명:</strong> 조원희</p>
               <p><strong className="text-slate-800">직책:</strong> 대표</p>
-              <p><strong className="text-slate-800">이메일:</strong> withone99@naver.com</p>
+              <p><strong className="text-slate-800">이메일:</strong> withwon@with-won.co.kr</p>
             </div>
             <p className="text-xs text-slate-500">
               이용자는 회사의 서비스를 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자에게 문의하실 수 있습니다.
@@ -210,7 +210,7 @@ export const PrivacyPolicyModal: React.FC<PrivacyPolicyModalProps> = ({ isOpen, 
             <p><strong className="text-slate-900">대표자:</strong> 조원희</p>
             <p><strong className="text-slate-900">사업자등록번호:</strong> 163-61-00845</p>
             <p><strong className="text-slate-900">주소:</strong> 인천광역시 연수구 인천타워대로 323, 에이동 10층 1010-121호(송도동, 송도 센트로드)</p>
-            <p><strong className="text-slate-900">이메일:</strong> withone99@naver.com</p>
+            <p><strong className="text-slate-900">이메일:</strong> withwon@with-won.co.kr</p>
           </div>
         </div>
 
